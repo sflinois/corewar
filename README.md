@@ -21,6 +21,7 @@ L'assemble permet de compiler les champions
 ex:
 
 ./asm champs/gagnant.s
+
 ./asm champs/maxidefs.s
 
 vous pouvez ensuite envoyer les champions dans la vm :
