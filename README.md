@@ -26,4 +26,4 @@ ex:
 
 vous pouvez ensuite envoyer les champions dans la vm :
 
-./corewar -v champs/gagnant.s champs/maxidefs.s
+./corewar -v champs/gagnant.cor champs/maxidefs.cor
